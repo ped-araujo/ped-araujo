@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🚀
 I'm Pedro! <br>
 Feel free to contact me on LinkedIn!
 
