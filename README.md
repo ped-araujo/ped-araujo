@@ -1,34 +1,188 @@
-### Hi there 🚀
-I'm Pedro! <br>
-Feel free to contact me on LinkedIn!
-
-- 💻 Full Stack Software Engineer
-- <a href="https://www.linkedin.com/in/pedaraujo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<h2> Hi there 🚀</h2>
+  
+  
+ <div align=right height="250">
+    <img align="right" width="400px" height="250" alt="GIF" src=program.gif/>
+ </div>
  
- # Technologies 💻
-![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
-![HTML](https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![CSS](https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333)
-![JavaScript](https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074)
-![Git](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)
-![GitHub](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
-![VSCode](https://camo.githubusercontent.com/639d2f4c43a01e8f0382589b9e2dae1d20161b6ec0bc9a40dcd99917f1b2286d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
-
+<div height="250" align=left>
+   I'm Pedro
+   <br>
+   Full Stack Software Developer, Aerospace Engineer and Physicist.
+   <br>
+   <br>
+   Feel free to contact me:
+    <br><br>
+   <a href="https://www.linkedin.com/in/pedaraujo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+     <br>
+   <a href="mailto:p3d.araujo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <br>
+        <br><br>
+Also check out my website:
+<a href="https://pedaraujo.com/">@pedaraujo
+ </div>
  
+ <br><br><br>
+ <br><br><br>
+ 
+<h2> Technologies I play with 💻 </h2>
+<br>
+<p>
+	<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+		<img
+			src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+			alt="arduino"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+			alt="azure"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+			alt="docker"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+			alt="flask"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+			alt="git"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+			alt="html5"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a
+		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+		target="_blank"
+		rel="noreferrer"
+	>
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+			alt="javascript"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+			alt="kubernetes"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+			alt="linux"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+			alt="matlab"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://mochajs.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+			alt="mocha"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+			alt="mongodb"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+			alt="nodejs"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+			alt="pandas"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://postman.com" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+			alt="postman"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.python.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+			alt="python"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+		<img
+			src="https://reactnative.dev/img/header_logo.svg"
+			alt="reactnative"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+			alt="tensorflow"
+			width="40"
+			height="40"
+		/>
+	</a>
+</p>
+</div>
+
+<br><br><br>
  
  <img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedAraujo&layout=compact&theme=vision-friendly-dark" />
  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=pedAraujo&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
-<!--
-**pedAraujo/pedAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+ <br><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
