@@ -165,8 +165,6 @@ Also check out my website:
 
 <br><br><br>
  
- <img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedAraujo&layout=compact&theme=vision-friendly-dark" />
- <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=pedAraujo&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
- 
+ <img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedAraujo&layout=compact&theme=vision-friendly-dark" /> 
  <br><br>
 
