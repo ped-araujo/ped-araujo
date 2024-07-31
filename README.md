@@ -11,17 +11,12 @@
 	<br>
 	<br>
 	<br>
-	Currently working with Python using Flask, Dash and React frameworks for Data Science.
+	Currently working with Python and JS frameworks.
 	<br>
 	<br>
-	Exploring the realms of Machine Learning and C for systems engineering.
+	Studying the realms of Machine Learning and C for systems engineering and robotics.
 	<br>
 	<br>
-	I thrive in environments that foster creativity and innovation. 
-	<br>
-	<br>
-	<br>
-<br>
 	With over 5 years of experience, I've had the privilege of working with amazing people on a variety of projects.
 </div>
 Feel free to reach out, and let's explore how we can collaborate to bring your vision to life.
