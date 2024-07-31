@@ -1,12 +1,10 @@
-# 🚀 Hi there
+# 🚀 Hi, I'm Pedro
   
 <div align=right height="250">
 	<img align="right" width="400px" height="250" alt="GIF" src=program.gif/>
 </div>
  
 <div height="250" align=left>
-	I'm Pedro Araujo
-	<br>
 	Full Stack Software Developer, Aerospace Engineer and Physicist. 
 	<br>
 	<br>
