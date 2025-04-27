@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Pedro
+# 🚀 Hi, I'm P-dro
   
 <div align=right height="250">
 	<img align="right" width="400px" height="250" alt="GIF" src=program.gif/>
