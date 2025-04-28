@@ -20,7 +20,7 @@ Feel free to reach out, and let's explore how we can collaborate to bring your v
 <br>
 <br>
 Also, check out my website:
-<a href="https://pedaraujo.com/">@pedaraujo
+<a href="https://p-dro.com/">@p-dro
 <br>
 <br>
 	
